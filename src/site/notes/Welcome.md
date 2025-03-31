@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dgShowFileTree":true}
 ---
 
-Это текстовый файл
+Это текстовый файл 2
